@@ -1,16 +1,7 @@
-# pizza100
+# CodePride
 
-A new Flutter project.
+Our project submission for PrideHacks2 and PowerToFly Global hack June '22.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Important
+The submission DOES NOT include necessary API keys, and the firebase-options.dart file without which its not possible to try it out on your system.  
+We regret the inconvenience caused.
